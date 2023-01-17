@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**iamraj1/iamraj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Raj! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me:
+I'm a Full Stack Python Developer.
+
+
+## 🛠 Skills:
+Python|DSA|DBMS|Django|Flask|Javascript|HTML|CSS|AWS|ML & DL Algorithms| 
+
+
+## More about me:
+👩‍💻 I'm currently working on object detection and python development.
+
+🧠 I'm currently leaning deep leaning and neural network.
+
+💬 Ask me about python and yolo.
+
+📫 raj.org14@gmail.com
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-14/)
+
+

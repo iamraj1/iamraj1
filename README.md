@@ -3,19 +3,19 @@
 
 
 ## 🚀 About Me:
-I'm a Full Stack Python Developer.
+I'm a Python Developer and working on Computer Vision(object detection) stuff.
 
 
 ## 🛠 Skills:
-Python|DSA|DBMS|Django|Flask|Javascript|HTML|CSS|AWS|ML & DL Algorithms| 
+Python|DSA|Django|Flask|SQL|AWS|Azure|AI & ML|DL|Computer Vision| 
 
 
 ## More about me:
-👩‍💻 I'm currently working on object detection and python development.
+👩‍💻 I'm currently working on computer vision(object detection) and python.
 
-🧠 I'm currently leaning deep leaning and neural network.
+🧠 I'm currently leaning Deep leaning, NLP, NN, CNN.
 
-💬 Ask me about python and yolo.
+💬 Ask me about Python and YOLO Object Detection Algorithm.
 
 📫 raj.org14@gmail.com
 

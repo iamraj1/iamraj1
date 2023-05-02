@@ -7,7 +7,7 @@ I'm a Python Developer and working on Computer Vision(object detection) stuff.
 
 
 ## 🛠 Skills:
-Python|DSA|Django|Flask|SQL|AWS|Azure|AI & ML|DL|Computer Vision| 
+Python | DSA | Django | Flask | SQL | AWS | Azure | AI & ML | DL | Computer Vision | 
 
 
 ## More about me:

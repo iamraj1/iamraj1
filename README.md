@@ -3,19 +3,19 @@
 
 
 ## 🚀 About Me:
-I'm a Python Developer and working on Computer Vision(object detection) stuff.
+I'm a ML Engineer and I have deep interest in NLP, LLM, Object Dection and Computer Vision stuff.
 
 
 ## 🛠 Skills:
-Python | DSA | Django | Flask | SQL | AWS | Azure | AI & ML | DL | Computer Vision | 
+Python | AI & ML | DSA | Django | Flask | SQL | AWS | Azure | NLP | LLM | Object Dection | Computer Vision | 
 
 
 ## More about me:
-👩‍💻 I'm currently working on computer vision(object detection) and python.
+👩‍💻 I'm currently working on NLP, LLM, Object Dection(YOLO) and Computer Vision.
 
-🧠 I'm currently leaning Deep leaning, NLP, NN, CNN.
+🧠 I'm currently leaning the AI & ML.
 
-💬 Ask me about Python and YOLO Object Detection Algorithm.
+💬 Ask me about Python and Machine Learning.
 
 📫 raj.org14@gmail.com
 

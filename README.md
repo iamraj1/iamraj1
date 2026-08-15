@@ -1,6 +1,6 @@
 # Hi, I'm Raj! 👋
 
-### 🚀 Senior AI/ML Engineer | Generative AI | Agentic AI | Computer Vision
+### 🚀 AI/ML Engineer | Generative AI | Agentic AI | Computer Vision
 
 I'm an **AI/ML Engineer** passionate about building intelligent, scalable, and production-ready AI solutions. My work focuses on **Generative AI, Agentic AI, LLM applications, RAG systems, Computer Vision, and AI automation**.
 
